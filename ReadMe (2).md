@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ✌ Olá, eu sou Edson dos Santos
 📈Trabalho como Analista de Dados<br>📚 Estudo Front End
 
 
